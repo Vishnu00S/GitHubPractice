@@ -1,1 +1,2 @@
 Hi this is a normaln text file. This is used for practice purpose of github.
+i successfullly cratedd a new repository and succcesssfully added a file
