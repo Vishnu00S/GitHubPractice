@@ -1,2 +1,4 @@
 Hi this is a normaln text file. This is used for practice purpose of github.
 i successfullly cratedd a new repository and succcesssfully added a file
+adding a LeaveLetter:
+this leave letter formate comntains  FORM, TO, BODY and inside the BODY it contains subject and finally have signature of the pefson 
